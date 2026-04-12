@@ -1,0 +1,2 @@
+This is an attempt to make a DIY speaker boxes look better via 3d printed covers.
+Models match the Vibe BLACKAIR6C-V0 component speaker system (https://vibeaudio.co.uk/product/blackair6c-v0) being used in this build.
