@@ -16,3 +16,5 @@ Limitations
 - Includes one external 3.5″ bay (used for Gotek in my build) and one internal bay for a standard 3.5″ HDD.
 - Case dimensions: approx. 275 (h) × 145 (w) × 278 (d) mm.
 - Currently houses a compact ATX PSU (140 × 86 × 110 mm). Units up to 130 mm depth fit without issue; 140 mm depth is possible but requires reorienting the Gotek’s FDD pin connector upward.
+
+<img width="1182" height="883" alt="image" src="https://github.com/user-attachments/assets/4c9a3d16-7756-4f79-ae6c-1c4ccc00074b" />
