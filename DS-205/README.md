@@ -1,7 +1,6 @@
 C128 Female Power Connector (aka Square DIN5 F).
 
-<img width="959" height="779" alt="image" src="https://github.com/user-attachments/assets/42b66104-02c4-4a76-a4df-2f8f3e0f87ee" />
-<img width="990" height="796" alt="image" src="https://github.com/user-attachments/assets/de34284b-bc0e-424a-82b1-ace729d4e1df" />
+<img width="833" height="740" alt="image" src="https://github.com/user-attachments/assets/a5218769-b9e8-4684-afd8-9d00d8ab46d0" />
 
 Material to be used: PBT UL94V-O.
 
